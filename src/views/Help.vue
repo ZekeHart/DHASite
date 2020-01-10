@@ -11,23 +11,23 @@
         </ul>
 
     <h2 class='section-header'>Volunteer</h2>
-        <ul class="section-info">
-            <li>To get involved with the delivery of hot meals to displaced residents at hotels, send an e-mail to mcdougaldterrancemeals@gmail.com</li>
-            <li>Drop off donations at 51b Ridgeway Avenue from 10AM to 5PM.</li>
+        <ul>
+            <li class='volunteer-info'>To get involved with the delivery of hot meals to displaced residents at hotels, send an e-mail to mcdougaldterrancemeals@gmail.com</li>
+            <li class='volunteer-info'>Drop off donations at 51b Ridgeway Avenue from 10AM to 5PM.</li>
         </ul>
     
     <h2 class='section-header'>Constant Needs</h2>
         <p class="section-info">Below are examples of items that are needed, but needs are not exclusive to this list.</p>
         <ul>
             <li class='needs-header'>Non-perishable food</li>
-                <ul class="section-info">
+                <ul class='list-container'>
                     <li>Vienna sausages</li>
                     <li>Easy Mac</li>
                     <li>Instant ramen</li>
                     <li>Granola bars</li>
                 </ul>
             <li class='needs-header'>Packed lunches</li>
-                <ul class="section-info">
+                <ul class='list-container'>
                     <li>Fresh fruit</li>
                     <li>Snack crackers</li>
                     <li>Goldfish</li>
@@ -37,7 +37,7 @@
                     <li>Ensure</li>
                 </ul>
             <li class='needs-header'>Hygiene kits</li>
-                <ul class="section-info">
+                <ul class='list-container'>
                     <li>Sanitary wipes</li>
                     <li>Diapers</li>
                     <li>Pads/tampons</li>
@@ -47,7 +47,7 @@
                     <li>Deodorant</li>
                 </ul>
             <li class='needs-header'>Misc</li>
-                <ul class="section-info">
+                <ul class='list-container'>
                     <li>Pots</li>
                     <li>Pans</li>
                 </ul>

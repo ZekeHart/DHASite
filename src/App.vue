@@ -2,13 +2,13 @@
   <div id="app">
     <router-view  class="main-content"/>
     <div class="nav">
-      <router-link class="col" to="/"><div><font-awesome-icon icon="home" /><p>About</p></div>
+      <router-link class="col" to="/"><div><font-awesome-icon icon="home" size="2x" /><p>About</p></div>
       </router-link>
 
-      <router-link class="col" to="/help"><div><font-awesome-icon icon="hand-holding-heart" /><p>Help</p></div>
+      <router-link class="col" to="/help"><div><font-awesome-icon icon="hand-holding-heart" size="2x" /><p>Help</p></div>
       </router-link>
 
-      <router-link class="col" to="/testimonies"><div><font-awesome-icon icon="comment-dots" /><p>Testimonies</p></div>
+      <router-link class="col" to="/testimonies"><div><font-awesome-icon icon="comment-dots" size="2x"/><p>Testimonies</p></div>
       </router-link>
     </div>
   </div>
@@ -34,13 +34,15 @@
   background: white;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .col {
-  padding: 30px;
-  height: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+  // height: 30px;
   text-align: center;
-  padding-top: 5px;
+  padding-top: 15px;
   align-self: center;
 }
 

@@ -18,13 +18,19 @@
     content: '';
     display: block;
     position: absolute;
-    width: 20%;
-    border-bottom: 2px dotted #999;
+    width: 70%;
+    border-bottom: 1px solid #999;
 }
 
 .needs-header { 
     padding: 10px;
-    font-size: 2rem;
+    font-size: 1.5rem;
+    margin-left: 5%;
+}
+
+.list-container {
+    padding: 10px;
+    margin-left: 5%;
 }
 
 .donate-link {
@@ -36,10 +42,17 @@
 .donate-info {
     margin-left: 5%;
     font-size: 1rem;
+    margin-bottom: 5%;
+}
+
+.volunteer-info {
+    margin-top: 3%;
+    margin-left: 5%;
 }
 
 .section-info {
     margin-left: 3%;
+    margin-top: 3%;
 }
 // .container {
 //     margin: 0 auto;
