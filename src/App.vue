@@ -26,7 +26,7 @@
     </div>
     <router-view  class="main-content"/>
   </mq-layout>
-  </div>
+</div>
 </template>
 
 <style lang="scss">
@@ -56,11 +56,14 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  border: #2c3e50;
+  // border: #2c3e50 solid;
+  box-shadow: 0 0 0 .2rem #2c3e50;
+
   position: fixed;
   top: 0;
   width: 100%;
   background: white;
+  z-index: 99;
 }
 
 .col {
@@ -72,12 +75,16 @@
   align-self: center;
 }
 
-#nav a {
-  font-weight: bold;
+// .nav a {
+//   font-weight: bold;
+//   color: #2c3e50;
+// }
+
+.nav a.router-link-exact-active {
   color: #2c3e50;
 }
 
-#nav a.router-link-exact-active {
-  color: #42b983;
+.nav-big a.router-link-exact-active {
+  color: #2c3e50;
 }
 </style>
