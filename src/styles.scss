@@ -5,7 +5,14 @@
 .page-header {
     font-size: 3.5rem; 
     text-align: center;
-    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.page-container {
+    max-width: 80%;
+    margin: 0 auto;
 }
 
 .section-header {
@@ -33,6 +40,10 @@
     margin-left: 5%;
 }
 
+.list-container > li {
+    margin-left: 10%;
+    list-style-type: circle;
+}
 .donate-link {
     padding: 5px;
     margin-left: 3%;
@@ -60,6 +71,18 @@
 .section-info {
     margin-left: 3%;
     margin-top: 5px;
+}
+
+.about-list {
+    list-style-type: circle;
+}
+
+.stand-with {
+    font-size: 2rem;
+}
+
+.dha-vs {
+    line-height: 3.8rem;
 }
 // .container {
 //     margin: 0 auto;
