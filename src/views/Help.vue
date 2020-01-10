@@ -12,8 +12,8 @@
 
     <h2 class='section-header'>Volunteer</h2>
         <ul>
-            <li class='volunteer-info'>Visit <strong>51b Ridgeway Avenue, Durham,</strong> from 10AM to 5PM to drop off donations, sort donations, or provide transportation.</li>
-            <li class='volunteer-info'>To get involved with the delivery of hot meals to displaced residents at hotels, send an e-mail to mcdougaldterracemeals@gmail.com</li>
+            <li class='volunteer-info'>Visit <strong>51b Ridgeway Avenue in Durham</strong> from 10AM to 5PM to drop off donations, sort donations, or provide transportation.</li>
+            <li class='volunteer-info'>To get involved with the delivery of hot meals to displaced residents at hotels, send an e-mail to mcdougaldterracemeals@gmail.com. More information can be found <a target="_blank" rel="noopener" href='https://www.facebook.com/ZwelisKitchen/photos/a.629804900507645/1447539038734223/?type=3&theater'>here.</a></li>
         </ul>
     
     <h2 class='section-header'>Constant Needs</h2>

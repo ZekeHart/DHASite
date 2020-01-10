@@ -42,7 +42,6 @@
   margin-right: 20px;
   // height: 30px;
   text-align: center;
-  padding-top: 15px;
   align-self: center;
 }
 
