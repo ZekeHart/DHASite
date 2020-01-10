@@ -90,7 +90,7 @@
 @media (min-width: 1281px) {
   
 .main-content {
-  padding-bottom: 0;
+  padding-bottom: 3%;
 }
   
 }

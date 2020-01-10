@@ -1,6 +1,6 @@
 <template>
   <div class="page-container">
-    <h1 class='page-header dha-vs'>DHA <br>vs Everybody</h1>
+    <h1 class='page-header dha-vs'>DHA vs Everybody</h1>
     <ul>
       <h2 class="about-text">Hundreds of McDougald Terrace residents have evacuated due to carbon monoxide levels and are staying in twelve different hotels.
 These people need support from the community during their time of need.

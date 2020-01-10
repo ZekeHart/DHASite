@@ -113,8 +113,12 @@ export default {
   
   .speaker-img {
       max-width: 20%;
+      margin-top: 0;
   }
-
+    .speaker {
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
   .main-text {
       font-size: 1.3rem;
       line-height: 3.5rem;
