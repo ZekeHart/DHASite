@@ -2,7 +2,7 @@
   <div class="page-container">
     <h1 class='page-header dha-vs'>DHA <br>vs Everybody</h1>
     <ul>
-      <h2>Hundreds of McDougald Terrace residents have evacuated due to carbon monoxide levels and are staying in twelve different hotels.
+      <h2 class="about-text">Hundreds of McDougald Terrace residents have evacuated due to carbon monoxide levels and are staying in twelve different hotels.
 These people need support from the community during their time of need.
 We are focusing on helping with this crisis right now but it is part  of a larger issue.
 The living conditions for a large number DHA tenants have ranged from poor to unsafe:</h2>
@@ -16,7 +16,9 @@ The living conditions for a large number DHA tenants have ranged from poor to un
     <h2 class='stand-with'>Stand with the Mac. <br> Stand with Durham. <br> DHA vs Everybody.</h2>
     </mq-layout>
     <mq-layout mq="kyle+">
-    <h2 class='stand-with'>Stand with the Mac.  Stand with Durham.  DHA vs Everybody.</h2>
+      <div class="stand-with-div">
+      <h2 class='stand-with'>Stand with the Mac. </h2> <h2 class='stand-with'> Stand with Durham. </h2> <h2 class='stand-with'> DHA vs Everybody.</h2>
+      </div>
     </mq-layout>
   </div>
 </template>

@@ -78,9 +78,19 @@
     list-style-type: circle;
 }
 
+.about-text {
+    line-height: 2rem;
+}
+
 .stand-with {
     font-size: 2rem;
     text-align: center;
+    padding-top: 1rem;
+}
+
+.stand-with-div {
+    display:flex;
+    justify-content: space-between;
 }
 
 .dha-vs {
