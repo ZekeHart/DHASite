@@ -86,4 +86,13 @@
 .nav-big a.router-link-exact-active {
   color: #2c3e50;
 }
+
+@media (min-width: 1281px) {
+  
+.main-content {
+  padding-bottom: 3%;
+}
+  
+}
 </style>
+
