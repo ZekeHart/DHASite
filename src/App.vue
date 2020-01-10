@@ -1,15 +1,15 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">About</router-link> |
-      <router-link to="/help">Help</router-link>  |
-      <router-link to="/testimonies">Testimonies</router-link>
+    <router-view  class="main-content"/>
+    <div class="nav">
+      <router-link class="col" to="/">About</router-link>
+      <router-link class="col" to="/help">Help</router-link>
+      <router-link class="col" to="/testimonies">Testimonies</router-link>
     </div>
-    <router-view/>
   </div>
 </template>
 
-<style>
+<style lang="scss">
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -17,9 +17,24 @@
   color: #2c3e50;
 }
 
-#nav {
+.main-content {
+  padding-bottom: 5%;
+}
+.nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 5%;
+  background: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.col {
   padding: 30px;
   text-align: center;
+  padding-top: 5px;
 }
 
 #nav a {
