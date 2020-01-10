@@ -8,7 +8,7 @@
       <router-link class="col" to="/help"><div><font-awesome-icon icon="hand-holding-heart" /><p>Help</p></div>
       </router-link>
 
-      <router-link class="col" to="/"><div><font-awesome-icon icon="comment-dots" /><p>Testimonies</p></div>
+      <router-link class="col" to="/testimonies"><div><font-awesome-icon icon="comment-dots" /><p>Testimonies</p></div>
       </router-link>
     </div>
   </div>
