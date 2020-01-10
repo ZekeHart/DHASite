@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.page-header {
+    font-size: 3.5rem; 
+    text-align: center;
+}
+
+.section-header {
+    font-size: 2.5rem;
+}
+
+.needs-header { 
+    font-size: 2rem;
+}
+
+.donate-link {
+    margin-left: 3%;
+    font-size: 1.5rem;
+}
+
+.donate-info {
+    margin-left: 5%;
+    font-size: 1rem;
+}
+// .container {
+//     margin: 0 auto;
+//     display: flex;
+//     justify-content: center;
+//     width: 100%
+// }
+
+// .page-header {
+//     z-index: 3;
+//     position: absolute;
+//     color: #fff;
+//     text-align: center;
+//     text-transform: uppercase;
+//     text-shadow: 2px 2px 0px rgba(0,0,0,0.3);
+//     letter-spacing: 0.1em;
+//     font-size: 3rem;
+// }
+
+// .page-header-img {
+//     background: url("https://dha-vs-everybody.s3.us-east-2.amazonaws.com/81481907_10156923499686463_4862207191605575680_n.jpg");
+//     background-repeat: no-repeat;
+//     width: inherit;
+//     height: 100px;
+//     height: 400px;
+//     background-size: 100%, 400px;
+//     outline: none;
+//     z-index: 1;
+//     position: relative;
+// }
+// .overlay:before {
+//     content: '';
+//     z-index: 2;
+//     border-radius: 10px;
+//     // top: -45px;
+//     // top: -5%;
+//     top: -3px;
+//     // left: 0;
+//     // right: 0;
+//     // margin-left: 3%;
+//     width: 200px;
+//     height: 100%;
+//     position: absolute;
+//     display: inline-block;
+//     background: linear-gradient(0deg, rgba(7, 41, 89, 0.8) 0%, 
+//     rgba(7, 41, 89, 0.18) 36%, rgba(7, 41, 89, 0) 46%), 
+//     // box-shadow: 0 20px 30px rgba(0,0,0,0.2);
+// }
