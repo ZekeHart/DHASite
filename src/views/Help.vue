@@ -6,7 +6,7 @@
         <ul>
             <li class='donate-link'>Give through PayPal</li>
                 <p class='donate-info'>PayPal Account: <strong>ashleycanady22@yahoo.com</strong></p>
-                <p class='donate-info'>Use the email above to send funds directly to the business PayPal account operated by Ashley Canady, McDougald Terrace's resident council president. All funds go back into the community. Learn how to send money via PayPal <a target="_blank" rel="noopener" href="https://www.paypal.com/hk/smarthelp/article/how-do-i-send-a-payment-to-someone%E2%80%99s-email-address-faq1684">here.</a></p>
+                <p class='donate-info'>Use the email above to send funds directly to the business PayPal account operated by Ashley Canady, McDougald Terrace's resident council president. <strong>All funds go back into the community.</strong> Learn how to send money via PayPal <a target="_blank" rel="noopener" href="https://www.paypal.com/hk/smarthelp/article/how-do-i-send-a-payment-to-someone%E2%80%99s-email-address-faq1684">here.</a></p>
             <li class='donate-link'><a href='https://www.gofundme.com/f/the-good-neighbor-fund' target="_blank" rel="noopener">The Good Neighbor Fund</a></li>
                 <p class='donate-info'>Donations to The Good Neighbor Fund are used by community organizers to increase the food security and health of those who have been displaced from McDougald Terrace. This fund is the <strong>original GoFundMe</strong> approved by Ashley.</p>
         </ul>
