@@ -4,6 +4,7 @@ import router from './router'
 import VueMq from 'vue-mq'
 import Buefy from 'buefy'
 import 'buefy/dist/buefy.css'
+import './styles.scss'
 
 Vue.config.productionTip = false
 
