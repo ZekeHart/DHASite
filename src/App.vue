@@ -15,7 +15,7 @@
   </mq-layout>
   <mq-layout mq="kyle+">
     <div class="nav-big">
-      <router-link class="col" to="/"><div><font-awesome-icon icon="home" size="2x" /><p>About big</p></div>
+      <router-link class="col" to="/"><div><font-awesome-icon icon="home" size="2x" /><p>About</p></div>
       </router-link>
 
       <router-link class="col" to="/help"><div><font-awesome-icon icon="hand-holding-heart" size="2x" /><p>Help</p></div>
