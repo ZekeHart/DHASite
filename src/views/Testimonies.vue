@@ -1,8 +1,6 @@
 <template>
     <section class='page-container'>
-        <div>
         <h1 class='page-header'>Testimonies</h1>
-        </div>
         <h2 class='testimony-preface'>All of these statements were given by McDougald Terrace residents during the Durham City Council meeting on Monday January 6th, 2020. <strong>We will be adding more testimonies as speakers give us their permission to do so.</strong> The full meeting including statements by other Durham residents, city council members, and Anthony Scott the CEO of the Durham Housing Administration can be viewed on Facebook <a href="https://www.facebook.com/CityofDurhamNC/videos/2901185106566865/" >here.</a></h2>
         <div class="testimony">
             <div class='speaker-container'>
