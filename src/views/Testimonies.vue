@@ -1,17 +1,19 @@
 <template>
-    <section>
+    <section class='page-container'>
         <div>
         <h1 class='page-header'>Testimonies</h1>
         </div>
-        <p>All of these statements were given by McDougald Terrace residents during the Durham City Council meeting on Monday January 6th, 2020. The full meeting including statements by other Durham residents, city council members, and Anthony Scott the CEO of the Durham Housing Administration can be viewed on Facebook <a href="https://www.facebook.com/CityofDurhamNC/videos/2901185106566865/" >here.</a></p>
+        <h2 class='testimony-preface'>All of these statements were given by McDougald Terrace residents during the Durham City Council meeting on Monday January 6th, 2020. <strong>We will be adding more testimonies as speakers give us their permission to do so.</strong> The full meeting including statements by other Durham residents, city council members, and Anthony Scott the CEO of the Durham Housing Administration can be viewed on Facebook <a href="https://www.facebook.com/CityofDurhamNC/videos/2901185106566865/" >here.</a></h2>
         <div class="testimony">
-            <img class="speaker-img" src="https://dha-vs-everybody.s3.us-east-2.amazonaws.com/ashley.png">
-            <h3 class="speaker">Ashley Canady</h3>
+            <div class='speaker-container'>
+                <img class="speaker-img" src="https://dha-vs-everybody.s3.us-east-2.amazonaws.com/ashley-square.png">
+                <h3 class="speaker">Ashley Canady</h3>
+            </div>
             <p class="main-text">
                 I’m Ashley Canady, and my address is [address omitted], and if you’re supporting McDougald, stand up! I have everybody here with me. A lot of these people are coming from McDougald. I’m coming from McDougald Terrace, and I’m here today because our community is suffering. We have a lot of our loved ones that are displaced. This week has been very hectic. I got back in town right before New Years and I know I put at least 233 hours or more in McDougald Terrace, and I don’t get paid. That’s people that are doing the job — the job that I’m doing, are getting paid. Day in and day out. Some days, I leave at 1:00 in the morning. I’m a single mother of four kids. Something’s got to give. Something’s got to give for our community. We’re out here tonight asking the city, the county, whoever it may be to come out to McDougald and help us. I’ve been receiving donations all day. All day long. And our volunteers have worked all day long. All weekend. Feeding thousands of people. Today was my first decent meal in almost a week. I’m running off of four hours of sleep. I have a headache right now. But I’m here with my residents. So I just want the city and everybody else to figure out what we can do to get our loved ones home in a safe and clean environment. Because guess what? Y’all wouldn’t want to live there. Nobody would want their kids living in these conditions right now. How would y’all feel if one of y’all woke up in the morning and one of your babies wasn’t living? I have so many parents telling me that they stand up watching their kids sleep just to make sure they’re not taking their last breath. Come on y’all, something has got to give.
             </p>
         </div>
-        <div class="testimony">
+        <!-- <div class="testimony">
             <img class="speaker-img" src="https://dha-vs-everybody.s3.us-east-2.amazonaws.com/jontay.png">
             <h3 class="speaker">Jontay Dunston (?)</h3>
             <p class="main-text">
@@ -24,15 +26,17 @@
             <p class="main-text">
                 Hi, good evening. Samantha Crowder. [address omitted]. My question is, to the city of durham, have you ever had to look in your baby’s eyes and fear death because of the conditions of your living situation? When your rent is paid, and you’ve been a resident at this place for four years. You’ve got bubbles in your ceiling, just terrible conditions. Mold in the bathroom that I can’t fight. They glazed the tub with paint so it stops up. Clogs the whole drain. It’s like you’re taking a shower in a river or something. It’s inhumane, absolutely ridiculous. You call in for a work order, it takes months, weeks to get some help. You have to constantly call to get something as simple as a tub unclogged. The way the buildings are set up, if one toilet or one tub is backed up, the entire building is backed up. Have you ever flushed your toilet and your feces comes up in your tub? That’s what we deal with in McDougald on the regular. That’s no lie. This is what I had my baby breathing in. She will be six months on the 29th. She came home into those conditions. I got in connection with Durham connection, they came out and tested my unit, I have proof. THERE’S lead based paint there. She will be moving around soon. Every day, I look in her eyes in fear, because of my living conditions I don’t know what could possibly happen. And really there’s nothing I can do about it right now other than stand up and say what I experienced living in McDougald Terrance. It’s the honest god truth. Please, you guys, help us, please. I’m displaced. I have five children. I have to get one child to KIPP Durham, another son to Dps elementary, my oldest daughter to Hillside high school. I don’t have a vehicle. I can’t go outside and put them on the bus from the Days Inn hotel. It’s frustrating. I don’t know where our next meal is coming from. I appreciate all the resources that everybody’s helping — thank you so much, Ashley — but this is really stressful. On another level of being stressful. I never thought that it would come to this. And I don’t see them actually fixing the issues that we have. It’s unfixable. If each and every one of you guys were to come in just my one apartment for an hour, I ain’t even gonna give you six months, in an hour you’ll be ready to go. Five minutes, you’ll be ready to go! 
             </p>
-        </div>
+        </div> -->
         <div class="testimony">
-            <img class="speaker-img" src="https://dha-vs-everybody.s3.us-east-2.amazonaws.com/shanukyra.png">
-            <h3 class="speaker">Shaunkyra Douglas</h3>
+            <div class='speaker-container'>
+                <img class="speaker-img" src="https://dha-vs-everybody.s3.us-east-2.amazonaws.com/cymone-square.png">
+                <h3 class="speaker">Cymone Douglas</h3>
+            </div>
             <p class="main-text">
                 My name is Shaunkyra Douglas, a lot of people know me as Cymone. I live at [address omitted]. He said he was gonna let us know when it’s safe for us to go home. What proof can we have that it’s safe for us to go home? Because we thought it was safe to live there, and apparently, it wasn’t. I don’t get it. I’m completely in awe. I have a 1-year-old and a six month old. They’re tiny. My next-door neighbor, her child was the first to pass away. That’s scary. From the time her child passed till now, I have been scared to go to sleep, I’m scared to put my kids down for a nap. We’re not even home because I’m so scared. I’ll even go to my aunt’s house for my kids to sleep. That’s a terrible feeling. It’s ridiculous. They don’t care. We’re humans, and I don’t know how many times I’ve got to say it, but we’re struggling. We’re struggling as it as because we’re living in McDougald. They make it worse by not caring. I was told of an inspection, three years of inspections that have failed, with McDougald terrace that have failed under 60. Under 60 is failing. If you’ve known for three years that the score ws under 60, why did you continue to let people live there like that? That’s ridiculous. If you wouldn’t want your kids, your mama, your grandma or anybody in your family going through this, why put other people through it? And granted, the maintenance man, they can’t do it all, housing authority, they swear they can’t do it all, can y’all help us? That’s all we’re asking for, a little bit of help. If you move me to another neighborhood, just make sure my kids are safe. That’s all I care about are my babies. I’d rather go than let them go. But with this, all of us are gonna go together. It shouldn’t be like that. We got to get up here and beg y’all for help. It shouldn’t have came to us begging. We’re not dogs.
             </p>
         </div>
-        <div class="testimony">
+        <!-- <div class="testimony">
             <img class="speaker-img" src="https://dha-vs-everybody.s3.us-east-2.amazonaws.com/larry.png">
             <h3 class="speaker">Larry Hunter</h3>
             <p class="main-text">
@@ -61,12 +65,12 @@
             </p>
         </div>
         <div class="testimony">
-            <!-- <img class="speaker-img" src="https://dha-vs-everybody.s3.us-east-2.amazonaws.com/lashonda.png"> -->
-            <h3 class="speaker">Antonisha Bernett</h3>
+            <img class="speaker-img" src="https://dha-vs-everybody.s3.us-east-2.amazonaws.com/lashonda.png"> -->
+            <!-- <h3 class="speaker">Antonisha Bernett</h3>
             <p class="main-text">
                 Hi, my name is Antonisha Bernett. First off, I just want to start by saying, do you guys have to beg us for rent money every month? We shouldn’t have to beg you guys to come out and fix something, especially these people who have young children. When I first moved into my apartment, I was pregnant. My daughter was born two months early. She had to stay in the hospital, she had to receive steroid shots to develop her lungs. When I brought her home, Miss Roberts told me to get a letter so I could be moved out of McDougald because the gas heat was effecting my daughter. My daughter has athsma. No one did anything, they didn’t even want to accept my letter to transfer me out. That’s a set up for something to happen to my child. I get tired of staying up every night, only getting an hour of sleep scared, watching my children breathe. Because I’m just so scared something will happen to them. I jut want to put out there, my nephew was Britain brown. That was the child that died December 8th. No one did anything. You didn’t even come out, Mr. Scott. You didn’t even try to do anything until she come to the meeting at Burton and spoke. Then you wanna come and give hugs, and act like you have some sympathy, when you guys should’ve been having sympathy for us when we’re putting in work orders complaining about mold, about ceilings caving in, about plumbing. You guys sitting here and charging us $20 to get our tubs and sinks unstopped but it’s been plumbing issues from day 1. And you guys know that because you have contractors coming out digging so many feet holes to try to fix a situation that is not going to get fixed. This is ridiculous. I’m pretty sure you guys have families, I know you guys go home and live comfortably, happy with their families, well you know a lot of mothers like my brother’s girlfriend, she doesn’t get to go home and see her child every day. Because now my nephew is laying in the iron. How do you think that makes us feel? Our time was cut short with my nephew because of carbon monoxide poisoning. This is ridiculous, and y’all need to do something ASAP, not just temporarily. This needs to be a long term plan. Y’all need to figure it out.
             </p>
-        </div>
+        </div>  -->
     </section>
 </template>
 
@@ -82,6 +86,25 @@ export default {
 <style scoped>
 .speaker-img {
   max-width: 40%;
+  border-radius: 50%;
 }
 
+.speaker-container {
+    display: block;
+    text-align: center;
+}
+
+.speaker {
+    align-self: center;
+    font-size: 2rem;
+}
+
+.main-text {
+    line-height: 2rem;
+}
+
+.testimony-preface {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
 </style>

@@ -12,12 +12,12 @@
 
     <h2 class='section-header'>Volunteer</h2>
         <ul>
-            <li class='volunteer-info'>Visit 51b Ridgeway Avenue, Durham, from 10AM to 5PM to drop off donations, sort donations, or provide transportation.</li>
+            <li class='volunteer-info'>Visit <strong>51b Ridgeway Avenue, Durham,</strong> from 10AM to 5PM to drop off donations, sort donations, or provide transportation.</li>
             <li class='volunteer-info'>To get involved with the delivery of hot meals to displaced residents at hotels, send an e-mail to mcdougaldterracemeals@gmail.com</li>
         </ul>
     
     <h2 class='section-header'>Constant Needs</h2>
-        <p class="section-info">Below are examples of items that are needed, but needs are not exclusive to this list.</p>
+        <p class="section-info">Below are examples of items that are needed, but <strong>needs are not exclusive to this list.</strong></p>
         <ul>
             <li class='needs-header'>Non-perishable food</li>
                 <ul class='list-container'>
