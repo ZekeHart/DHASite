@@ -1,7 +1,7 @@
 <template>
     <section>
         <div>
-        <h1>Testimonies</h1>
+        <h1 class='page-header'>Testimonies</h1>
         </div>
         <div class="testimony">
             <img class="speaker-img" src="https://dha-vs-everybody.s3.us-east-2.amazonaws.com/ashley.png">
