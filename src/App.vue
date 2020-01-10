@@ -57,7 +57,7 @@
   justify-content: space-evenly;
   align-items: center;
   // border: #2c3e50 solid;
-  box-shadow: 0 0 0 .2rem #2c3e50;
+  filter: drop-shadow(2px 3px 4px #999);
 
   position: fixed;
   top: 0;
