@@ -12,6 +12,11 @@ The living conditions for a large number DHA tenants have ranged from poor to un
           <li class="about-list">Half of all DHA properties scored below 60 the last time they were inspected by HUD and Mcdougald Terrace has failed each of the last three years.</li>
         </ul>
     </ul>
+    <mq-layout mq="mobile">
     <h2 class='stand-with'>Stand with the Mac. <br> Stand with Durham. <br> DHA vs Everybody.</h2>
+    </mq-layout>
+    <mq-layout mq="kyle+">
+    <h2 class='stand-with'>Stand with the Mac.  Stand with Durham.  DHA vs Everybody.</h2>
+    </mq-layout>
   </div>
 </template>
