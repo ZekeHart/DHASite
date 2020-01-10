@@ -11,23 +11,23 @@
         </ul>
 
     <h2 class='section-header'>Volunteer</h2>
-        <ul>
+        <ul class="section-info">
             <li>To get involved with the delivery of hot meals to displaced residents at hotels, send an e-mail to mcdougaldterrancemeals@gmail.com</li>
             <li>Drop off donations at 51b Ridgeway Avenue from 10AM to 5PM.</li>
         </ul>
     
     <h2 class='section-header'>Constant Needs</h2>
-        <p>Below are examples of items that are needed, but needs are not exclusive to this list.</p>
+        <p class="section-info">Below are examples of items that are needed, but needs are not exclusive to this list.</p>
         <ul>
             <li class='needs-header'>Non-perishable food</li>
-                <ul>
+                <ul class="section-info">
                     <li>Vienna sausages</li>
                     <li>Easy Mac</li>
                     <li>Instant ramen</li>
                     <li>Granola bars</li>
                 </ul>
             <li class='needs-header'>Packed lunches</li>
-                <ul>
+                <ul class="section-info">
                     <li>Fresh fruit</li>
                     <li>Snack crackers</li>
                     <li>Goldfish</li>
@@ -37,7 +37,7 @@
                     <li>Ensure</li>
                 </ul>
             <li class='needs-header'>Hygiene kits</li>
-                <ul>
+                <ul class="section-info">
                     <li>Sanitary wipes</li>
                     <li>Diapers</li>
                     <li>Pads/tampons</li>
@@ -47,7 +47,7 @@
                     <li>Deodorant</li>
                 </ul>
             <li class='needs-header'>Misc</li>
-                <ul>
+                <ul class="section-info">
                     <li>Pots</li>
                     <li>Pans</li>
                 </ul>
