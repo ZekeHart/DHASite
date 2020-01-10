@@ -85,6 +85,7 @@ export default {
 .speaker-img {
   max-width: 40%;
   border-radius: 50%;
+  margin-top: 10%;
 }
 
 .speaker-container {
@@ -95,6 +96,8 @@ export default {
 .speaker {
     align-self: center;
     font-size: 2rem;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .main-text {
@@ -105,4 +108,18 @@ export default {
     margin-top: 5%;
     margin-bottom: 5%;
 }
+
+@media (min-width: 1281px) {
+  
+  .speaker-img {
+      max-width: 20%;
+  }
+
+  .main-text {
+      font-size: 1.3rem;
+      line-height: 3.5rem;
+  }
+  
+}
+
 </style>
