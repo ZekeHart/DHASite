@@ -1,5 +1,9 @@
 <template>
 <div class='container'>
+    <mq-layout mq="kyle+">
+        <div class="nav-space"></div>
+    </mq-layout>
+
     <h1 class='page-header'>Help</h1>
 
     <div class="help-section">
