@@ -1,5 +1,8 @@
 <template>
   <div class="page-container">
+    <mq-layout mq="kyle+">
+        <div class="nav-space"></div>
+    </mq-layout>
     <h1 class='page-header dha-vs'>DHA vs Everybody</h1>
     <ul>
       <h2 class="about-text">Hundreds of McDougald Terrace residents have evacuated due to carbon monoxide levels and are staying in twelve different hotels.

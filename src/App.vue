@@ -64,6 +64,7 @@
   width: 100%;
   background: white;
   z-index: 99;
+  height: 10%;
 }
 
 .col {
