@@ -2,6 +2,7 @@
 <div class='container'>
     <h1 class='page-header'>Help</h1>
 
+    <div class="help-section">
     <h2 class='section-header'>Donate</h2>
         <ul>
             <li class='donate-link'>Give through PayPal</li>
@@ -20,7 +21,7 @@
     
     <h2 class='section-header'>Constant Needs</h2>
         <p class="section-info">Below are examples of items that are needed, but <strong>needs are not exclusive to this list.</strong></p>
-        <ul>
+        <ul class="needs-list">
             <li class='needs-header'>Non-perishable food</li>
                 <ul class='list-container'>
                     <li>Vienna sausages</li>
@@ -54,5 +55,6 @@
                     <li>Pans</li>
                 </ul>
         </ul>
+        </div>
 </div>
 </template>
