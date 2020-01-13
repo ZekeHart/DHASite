@@ -19,7 +19,7 @@
     <h2 class='section-header'>Volunteer</h2>
         <ul>
             <li class='volunteer-info'>Become a volunteer by <a target="blank_" rel="noopener" href='https://forms.gle/1SzgeqskVNSnafn4A'>filling out this short form</a> about contact information and areas of interest.</li>
-            <li class='volunteer-info'>To drop off donations, sort donations, or provide transportation, <a href="https://goo.gl/maps/4BSH4osN1r76Azfs6" target="_blank" rel="noopener">51b Ridgeway Avenue in Durham</a> from 10AM to 5PM unless otherwise stated.</li>
+            <li class='volunteer-info'>To drop off donations, sort donations, or provide transportation, <a href="https://goo.gl/maps/4BSH4osN1r76Azfs6" target="_blank" rel="noopener">51b Ridgeway Avenue in Durham</a> from 10AM to 6PM unless otherwise stated.</li>
             <li class='volunteer-info'>Another location for dropping off donations is <a href="https://goo.gl/maps/BFeqzwHRZxqu4UpN8" target="_blank" rel="noopener">the Salvation Army on 909 Liberty Street in Durham</a> from 8AM to 4PM.</li>
             <li class='volunteer-info'>To get involved with the delivery of hot meals to displaced residents in hotels, send an e-mail to <a href="mailto:mcdougaldterracemeals@gmail.com">mcdougaldterracemeals@gmail.com</a>. More information can be found <a target="_blank" rel="noopener" href='https://www.facebook.com/ZwelisKitchen/photos/a.629804900507645/1447539038734223/?type=3&theater'>here.</a></li>
             <li class='volunteer-info'>Stay up-to-date with information by joining the Facebook group <a href="https://www.facebook.com/groups/3229376280410087/?ref=br_rs" target="_blank" rel="noopener">DHA vs. Everybody</a>. </li>
