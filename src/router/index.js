@@ -19,6 +19,12 @@ const routes = [
     path: '/testimonies',
     name: 'testimonies',
     component: () => import(/* webpackChunkName: "about" */ '../views/Testimonies.vue')
+  },
+  {
+    path: '/testimony/:idNumber',
+    name: 'testimony',
+    props: true,
+    component: () => import(/* webpackChunkName: "about" */ '../components/Testimony.vue')
   }
 ]
 
@@ -29,5 +35,6 @@ const router = new VueRouter({
     document.documentElement.scrollTop = 0;
   },
 })
+
 
 export default router
