@@ -18,13 +18,14 @@ const routes = [
   {
     path: '/testimonies',
     name: 'testimonies',
-    component: () => import(/* webpackChunkName: "about" */ '../views/Testimonies.vue')
+    component: () => import(/* webpackChunkName: "about" */ '../views/TestimoniesAgain.vue')
   },
   {
     path: '/testimony/:idNumber',
     name: 'testimony',
     props: true,
     component: () => import(/* webpackChunkName: "about" */ '../components/Testimony.vue')
+    
   }
 ]
 
