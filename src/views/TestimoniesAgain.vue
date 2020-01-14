@@ -1,7 +1,7 @@
 <template>
     <section id='testimonies'>
         <h1 class='page-header'>Testimonies</h1>
-        <div class='page-container'>
+        <div class='page-container grid-container'>
             <div class='grid-item'>
                 <img class='speaker-img' src='https://dha-vs-everybody.s3.us-east-2.amazonaws.com/ashley-square.png'>
                 <h3 class='speaker-name'>Ashley Canady</h3>
@@ -49,10 +49,7 @@
 <style lang='scss'>
 $a: #8c67ef; 
 
-.page-header {
-    max-width: 80%;
-}
-.page-container {
+.grid-container {
     margin-top: 5%;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(80vw, 1fr));

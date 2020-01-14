@@ -20,7 +20,7 @@ The living conditions for a large number DHA tenants have ranged from poor to un
     </mq-layout>
     <mq-layout mq="kyle+">
       <div class="stand-with-div">
-      <h2 class='stand-with'>Stand with the Mac. </h2> <h2 class='stand-with'> Stand with Durham. </h2> <h2 class='stand-with'> DHA vs Everybody.</h2>
+      <h2 class='stand-with'>Stand with the Mac. </h2> <h2 class='stand-with'> Stand with Durham. </h2> <h2 class='stand-with'> <a href="https://www.facebook.com/groups/3229376280410087/?ref=br_rs" target="_blank" rel="noopener">DHA vs. Everybody.</a></h2>
       </div>
     </mq-layout>
   </div>
