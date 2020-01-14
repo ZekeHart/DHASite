@@ -23,8 +23,8 @@
 
       <router-link class="col" to="/testimonies"><div><font-awesome-icon icon="comment-dots" size="2x"/><p>Testimonies</p></div>
       </router-link>
-      <router-link class="col" :to="{ name: 'testimony', params: {idNumber: 0} }"><div><font-awesome-icon icon="comment-dots" size="2x"/><p>Testimo</p></div>
-      </router-link>
+      <!-- <router-link class="col" :to="{ name: 'testimony', params: {idNumber: 0} }"><div><font-awesome-icon icon="comment-dots" size="2x"/><p>Testimo</p></div>
+      </router-link> -->
     </div>
     <router-view  class="main-content"/>
   </mq-layout>

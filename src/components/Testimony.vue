@@ -1,6 +1,6 @@
 <template>
-  <div class="testimony-main">
-      <h1 class="speaker-name">test: {{name}}</h1>
+  <div class="page-container">
+      <h1 class="speaker-name">{{name}}</h1>
       <img class="speaker-img" :src=imageUrl> 
       <p class="testimony-text">{{testimonyText}}</p>
   </div>
@@ -32,5 +32,10 @@ export default {
 <style scoped>
 .speaker-name {
     padding-top: 10%;
+    font-size: 2rem;
+}
+
+.speaker-img {
+  max-width: 60%;
 }
 </style>
