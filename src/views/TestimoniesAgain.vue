@@ -20,6 +20,18 @@
                 <p class='quote'>We’re humans, and I don’t know how many times I’ve got to say it, but we’re struggling. We’re struggling as it as because we’re living in McDougald.</p>
                 <button class='btn'>See more</button>
             </div>
+            <div class='grid-item'>
+                <img class='speaker-img' src='https://dha-vs-everybody.s3.us-east-2.amazonaws.com/laura.png'>
+                <h3 class='speaker-name'>Laura Betty</h3>
+                <p class='quote'>We all know the way out of poverty is knowledge. We don’t want to interrupt that flow of knowledge. Please, I beg you, think of the children. If they have to be relocated, relocate the parents as soon as possible so the children have a stable learning environment.</p>
+                <button class='btn'>See more</button>
+            </div>
+            <div class='grid-item'>
+                <img class='speaker-img' src='https://dha-vs-everybody.s3.us-east-2.amazonaws.com/anthony-square.png'>
+                <h3 class='speaker-name'>Anthony McLendon</h3>
+                <p class='quote'>Before all this went down, the day before I got tested, they told me my apartment tested at 0. My doctor...took my blood, called me six hours later, told me I had carbon monoxide level 7. My grandson registered at 17. Now I have two grandbabies in the house I have to watch sleep every night.</p>
+                <button class='btn'>See more</button>
+            </div>
         </div>
     </section>
 </template>
