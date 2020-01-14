@@ -29,7 +29,7 @@
             <div class='grid-item'>
                 <img class='speaker-img' src='https://dha-vs-everybody.s3.us-east-2.amazonaws.com/laura.png'>
                 <h3 class='speaker-name'>Laura Betty</h3>
-                <p class='quote'>We all know the way out of poverty is knowledge. We don’t want to interrupt that flow of knowledge. Please, I beg you, think of the children. If they have to be relocated, relocate the parents as soon as possible so the children have a stable learning environment.</p>
+                <p class='quote'>My concern is the children. And specifically, their educational needs, the fact that they do need a stable home. I’m not sure that DHA has the funds to renew and to repair everything, and if you could just possibly do your best to hurry up the process. If it’s a matter of relocating the residents, please keep in mind the children. </p>
                 <router-link class="col" :to="{ name: 'testimony', params: {idNumber: 3} }">
                 <button class='btn'>See more</button>
                 </router-link>
@@ -37,7 +37,7 @@
             <div class='grid-item'>
                 <img class='speaker-img' src='https://dha-vs-everybody.s3.us-east-2.amazonaws.com/anthony-square.png'>
                 <h3 class='speaker-name'>Anthony McLendon</h3>
-                <p class='quote'>Before all this went down, the day before I got tested, they told me my apartment tested at 0. My doctor...took my blood, called me six hours later, told me I had carbon monoxide level 7. My grandson registered at 17. Now I have two grandbabies in the house I have to watch sleep every night.</p>
+                <p class='quote'>My doctor was watching the news. She called me in for an emergency checkup. She put it on my finger, I registered at 11. She took my blood, called me six hours later, told me I had carbon monoxide at a level 7. My grandson registered at 17. Now, I have two grandbabies in the house I have to watch sleep every night. My first good night’s sleep was last night, because I’d been so stressed out.</p>
                 <router-link class="col" :to="{ name: 'testimony', params: {idNumber: 4} }">
                 <button class='btn'>See more</button>
                 </router-link>
